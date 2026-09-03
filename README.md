@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, I'm Kiran payyavula
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm KiranRoy
 ====================================================================================================================================================
 
 Sr. DevOps Engineer | Cloud Enthusiast | AWS | Nutanix | CI/CD | Infrastructure Automation | SRE
@@ -9,10 +9,11 @@ I'm a DevOps Engineer passionate about building reliable infrastructure, automat
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
 </p>
 
+
+
 ## 🧑‍💻 About Me
 
 > **Sr. DevOps Engineer focused on cloud infrastructure, automation, CI/CD, reliability, and continuous improvement.**
-
 🔹 **6+ years** of experience in **DevOps, Cloud & Production Operations**<br>
 🔹 Managing and supporting **2000+ Linux & Windows servers** across production and non-production environments<br>
 🔹 Strong experience in **AWS infrastructure management, automation & optimization**<br>
@@ -65,6 +66,7 @@ Migrating monolithic applications to **microservices** and transitioning from **
 
 ---
 <div align="center">
+  
 ## 🤝 Let's Connect
 
 📧 ** You can contact me at Email:** [payyavualakiran@gmail.com](mailto:payyavualakiran@gmail.com)<br>
@@ -72,7 +74,8 @@ Migrating monolithic applications to **microservices** and transitioning from **
 🤝 **Open to Collaboration:** Cloud Infrastructure • DevOps Automation • Kubernetes • Open Source
 
 <div align="center">
-### 💡 Open to Conversations About
+  
+###💡 Open to Conversations About
 
 **DevOps • AWS • Kubernetes • Terraform • CI/CD • Cloud Architecture • Automation**
 
