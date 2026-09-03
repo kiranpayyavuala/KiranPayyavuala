@@ -1,7 +1,7 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm KiranRoy
+Hello, I'm KiranRoy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ====================================================================================================================================================
 
-Sr. DevOps Engineer | Cloud Enthusiast | AWS | Nutanix | CI/CD | Infrastructure Automation | SRE
+Sr.DevOpsEngineer | Cloud Enthusiast | AWS | Nutanix | CI/CD | Infrastructure Automation | SRE
 -----------------------------------------------------
 
 I'm a DevOps Engineer passionate about building reliable infrastructure, automating deployments, and improving developer productivity.
@@ -14,6 +14,7 @@ I'm a DevOps Engineer passionate about building reliable infrastructure, automat
 ## 🧑‍💻 About Me
 
 > **Sr. DevOps Engineer focused on cloud infrastructure, automation, CI/CD, reliability, and continuous improvement.**
+> 
 🔹 **6+ years** of experience in **DevOps, Cloud & Production Operations**<br>
 🔹 Managing and supporting **2000+ Linux & Windows servers** across production and non-production environments<br>
 🔹 Strong experience in **AWS infrastructure management, automation & optimization**<br>
@@ -70,10 +71,10 @@ Migrating monolithic applications to **microservices** and transitioning from **
   
 ## 🤝 Let's Connect
 
-📧 ** You can contact me at Email:
-** [payyavualakiran@gmail.com](mailto:payyavualakiran@gmail.com)<br>
-🌱 **Currently Learning:
-** Kubernetes • Terraform • Cloud Architecture • Platform Engineering • DevSecOps<br>
+📧 You can contact me at Email:<br>
+[payyavualakiran@gmail.com](mailto:payyavualakiran@gmail.com)<br>
+🌱 Currently Learning:<br>
+• Kubernetes • Cloud Architecture • Platform Engineering • DevSecOps<br>
 
 <div align="center">
 
