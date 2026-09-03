@@ -5,7 +5,8 @@ Hello, I'm KiranRoy ![](https://user-images.githubusercontent.com/18350557/17630
 
 Sr.DevOpsEngineer | Cloud Enthusiast | AWS | Nutanix | CI/CD | Infrastructure Automation | SRE
 
-<div align="center">
+</div>
+
 ---
 
 <p align="left">
