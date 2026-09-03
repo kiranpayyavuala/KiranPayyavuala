@@ -3,10 +3,6 @@ Hello, I'm KiranRoy ![](https://user-images.githubusercontent.com/18350557/17630
 
 Sr.DevOpsEngineer | Cloud Enthusiast | AWS | Nutanix | CI/CD | Infrastructure Automation | SRE
 -----------------------------------------------------
-
-I'm a DevOps Engineer passionate about building reliable infrastructure, automating deployments, and improving developer productivity.
-### ⚙️ DevOps & Cloud Tools
-
 <p align="left">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" title="AWS" width="36" height="36" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
@@ -39,7 +35,10 @@ I'm a DevOps Engineer passionate about building reliable infrastructure, automat
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" width="36" height="36" /></a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" title="Elasticsearch" width="36" height="36" /></a>
 </p>
+
 ---
+
+I'm a Sr.DevOps Engineer passionate about building reliable infrastructure, automating deployments, and improving developer productivity.
 
 ## 🧑‍💻 About Me
 
