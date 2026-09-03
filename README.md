@@ -51,7 +51,7 @@ Migrating monolithic applications to **microservices** and transitioning from **
 🔐 **Security:** Burp Suite • Tenable Nessus • Web Application Security Testing
 
 ---
-### 🧠 DevOps Philosophy
+### 🚀 Experience That Shapes My Approach
 
 > **Understand First. Break It Down. Automate Better. 🚀**
 >
