@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, I'm Kiran payyavula
 ====================================================================================================================================================
 
-Sr. DevOps Engineer | Cloud Enthusiast | AWS | Nutanix | CI/CD | Infrastructure Automation | SRE| Automation Lover
+Sr. DevOps Engineer | Cloud Enthusiast | AWS | Nutanix | CI/CD | Infrastructure Automation | SRE
 -----------------------------------------------------
 
 I'm a DevOps Engineer passionate about building reliable infrastructure, automating deployments, and improving developer productivity.
@@ -13,19 +13,20 @@ I'm a DevOps Engineer passionate about building reliable infrastructure, automat
 
 > **Sr. DevOps Engineer focused on cloud infrastructure, automation, CI/CD, reliability, and continuous improvement.**
 
-🔹 **6+ years** of experience in **DevOps, Cloud & Production Operations**
-🔹 Managing and supporting **2000+ Linux & Windows servers** across production and non-production environments
-🔹 Strong experience in **AWS infrastructure management, automation & optimization**
-🔹 Expertise in **CI/CD, Release Management & Build Automation**
-🔹 Infrastructure provisioning and configuration using **Terraform & Ansible**
-🔹 Containerization & orchestration with **Docker, Kubernetes & EKS**
-🔹 Working on **monolithic → microservices migration** and **single-tenant → multi-tenant transformation**
-🔹 Production monitoring with **Datadog  & Site24x7**
-🔹 Experienced in **Incident Management, RCA, Production Support & Troubleshooting**
-🔹 Hands-on experience with **Linux & Windows patch management and security updates**
-🔹 Experience in **Web Application Security Testing** using **Burp Suite & Tenable Nessus**
+🔹 **6+ years** of experience in **DevOps, Cloud & Production Operations**<br>
+🔹 Managing and supporting **2000+ Linux & Windows servers** across production and non-production environments<br>
+🔹 Strong experience in **AWS infrastructure management, automation & optimization**<br>
+🔹 Expertise in **CI/CD, Release Management & Build Automation**<br>
+🔹 Infrastructure provisioning and configuration using **Terraform & Ansible**<br>
+🔹 Containerization & orchestration with **Docker, Kubernetes & EKS**<br>
+🔹 Working on **monolithic → microservices migration** and **single-tenant → multi-tenant transformation**<br>
+🔹 Production monitoring with **Datadog & Site24x7**<br>
+🔹 Experienced in **Incident Management, RCA, Production Support & Troubleshooting**<br>
+🔹 Hands-on experience with **Linux & Windows patch management and security updates**<br>
+🔹 Experience in **Web Application Security Testing** using **Burp Suite & Tenable Nessus**<br>
 🔹 Passionate about building **reliable, scalable, secure & automated solutions**
 
+---
 ### 🚀 Currently Working On
 
 🔭 **Cloud-Native Microservices Platform**
@@ -62,16 +63,27 @@ Migrating monolithic applications to **microservices** and transitioning from **
 >
 > 📈 **Measure and improve** — continuously look for ways to make processes faster, safer, more reliable, and easier to maintain.
 
+---
 
-* ✉️  You can contact me at [payyavualakiran@gmail.com](mailto:payyavualakiran@gmail.com)
-* 🧠  I'm currently learning • Kubernetes • Terraform • Cloud Architecture • Platform Engineering • DevSecOps
-* 💬  Ask me about Turning manual processes into automated, reliable, and scalable solutions. 🚀
-* 👥  Let's Connect and collaborate on cloud infrastructure, DevOps automation, Kubernetes, and open-source projects.
+## 🤝 Let's Connect
 
-💬 Open to conversations about:
+📧 ** You can contact me at Email:** [payyavualakiran@gmail.com](mailto:payyavualakiran@gmail.com)<br>
+🌱 **Currently Learning:** Kubernetes • Terraform • Cloud Architecture • Platform Engineering • DevSecOps<br>
+🤝 **Open to Collaboration:** Cloud Infrastructure • DevOps Automation • Kubernetes • Open Source
 
-DevOps • AWS • Kubernetes • Terraform • CI/CD • Cloud Architecture • Automation
+### 💡 Open to Conversations About
 
-⭐ If you find something useful here, feel free to star a repository!
+**DevOps • AWS • Kubernetes • Terraform • CI/CD • Cloud Architecture • Automation**
 
-⭐ Thanks for visiting my profile!
+---
+
+<div align="center">
+
+⭐ **If you find something useful in my repositories, feel free to ⭐ star them.** 
+
+### 🚀 Thanks for visiting my profile!
+
+**🌍 Experience It → 🧠 Understand It → 🧩 Break It Down → ⚙️ Automate It → 🚀 Improve It**
+
+</div>
+
