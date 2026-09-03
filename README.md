@@ -66,16 +66,6 @@ Migrating monolithic applications to **microservices** and transitioning from **
 > 📈 **Measure and improve** — continuously look for ways to make processes faster, safer, more reliable, and easier to maintain.
 
 
-
-<div align="center">
-  
-## 🤝 Let's Connect
-
-📧 You can contact me at Email:<br>
-[payyavualakiran@gmail.com](mailto:payyavualakiran@gmail.com)<br>
-🌱 Currently Learning:<br>
-• Kubernetes • Cloud Architecture • Platform Engineering • DevSecOps<br>
-
 <div align="center">
 
   ## 🤝💡 Open to Conversations About
@@ -89,6 +79,13 @@ Migrating monolithic applications to **microservices** and transitioning from **
 ⭐ **If you find something useful in my repositories, feel free to ⭐ star them.** 
 
 ### 🚀 Thanks for visiting my profile!
+
+<div align="center">
+  
+## 🤝 Let's Connect
+
+📧 You can contact me at Email:<br>
+[payyavualakiran@gmail.com](mailto:payyavualakiran@gmail.com)<br>
 
 **🌍 Experience It → 🧠 Understand It → 🧩 Break It Down → ⚙️ Automate It → 🚀 Improve It**
 
