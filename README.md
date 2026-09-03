@@ -70,15 +70,16 @@ Migrating monolithic applications to **microservices** and transitioning from **
   
 ## 🤝 Let's Connect
 
-📧 ** You can contact me at Email:** [payyavualakiran@gmail.com](mailto:payyavualakiran@gmail.com)<br>
-🌱 **Currently Learning:** Kubernetes • Terraform • Cloud Architecture • Platform Engineering • DevSecOps<br>
-🤝 **Open to Collaboration:** Cloud Infrastructure • DevOps Automation • Kubernetes • Open Source
+📧 ** You can contact me at Email:
+** [payyavualakiran@gmail.com](mailto:payyavualakiran@gmail.com)<br>
+🌱 **Currently Learning:
+** Kubernetes • Terraform • Cloud Architecture • Platform Engineering • DevSecOps<br>
 
 <div align="center">
 
-  ## 💡 Open to Conversations About
+  ## 🤝💡 Open to Conversations About
 
-**DevOps • AWS • Kubernetes • Terraform • CI/CD • Cloud Architecture • Automation**
+**DevOps • Cloud Infrastructure • AWS • Kubernetes • Terraform • CI/CD • Cloud Architecture • Automation**
 
 ---
 
